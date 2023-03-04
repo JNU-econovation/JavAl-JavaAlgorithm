@@ -1,4 +1,4 @@
-# 2023 Java Study(Javs) - CodingTest(코딩테스트 Repo)
+# 2023 Java Algorithm Study(JavAl) - CodingTest(코딩테스트 Repo)
 
 ## 🗓 Plans
 
